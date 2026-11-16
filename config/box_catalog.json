@@ -1,0 +1,8 @@
+{
+  "red": {"width": 400, "length": 300, "height": 250, "color": "#dc4545"},
+  "yellow": {"width": 300, "length": 250, "height": 200, "color": "#e4bd31"},
+  "green": {"width": 250, "length": 200, "height": 180, "color": "#3b9960"},
+  "black": {"width": 200, "length": 150, "height": 150, "color": "#343a40"},
+  "blue": {"width": 350, "length": 250, "height": 220, "color": "#367dc4"},
+  "orange": {"width": 180, "length": 120, "height": 120, "color": "#e68b32"}
+}
